@@ -1,0 +1,21 @@
+header {
+    background: rgb(19, 163, 0);
+    color: rgb(0, 0, 0);
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25pt;
+}
+dt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    background-size: 20px;
+    background-color: aquamarine;
+}
+#churka {
+    font-size: 35pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3.huba {
+    color:blueviolet
+}
